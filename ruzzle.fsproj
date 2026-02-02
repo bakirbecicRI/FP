@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>ruzzle</AssemblyName>
+    <RootNamespace>Ruzzle</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="BoardModel.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Fable.Elmish.React" Version="5.0.1" />
+    <PackageReference Include="Fable.Fetch" Version="2.7.0" />
+    <PackageReference Include="Fable.Promise" Version="3.2.0" />
+    <PackageReference Include="Feliz" Version="2.9.0" />
+  </ItemGroup>
+
+</Project>
