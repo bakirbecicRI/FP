@@ -1,0 +1,14 @@
+/home/bax_03/Desktop/zadaca2_fp/rizl/bin/Debug/net8.0/ruzzle.deps.json
+/home/bax_03/Desktop/zadaca2_fp/rizl/bin/Debug/net8.0/ruzzle.runtimeconfig.json
+/home/bax_03/Desktop/zadaca2_fp/rizl/obj/Debug/net8.0/ruzzle.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bax_03/Desktop/zadaca2_fp/rizl/obj/Debug/net8.0/ruzzle.fable-temp.AssemblyInfoInputs.cache
+/home/bax_03/Desktop/zadaca2_fp/rizl/obj/Debug/net8.0/ruzzle.fable-temp.AssemblyInfo.cs
+/home/bax_03/Desktop/zadaca2_fp/rizl/obj/Debug/net8.0/ruzzle.f.70E41959.Up2Date
+/home/bax_03/Desktop/zadaca2_fp/rizl/obj/Debug/net8.0/ruzzle.fable-temp.genruntimeconfig.cache
+/home/bax_03/Desktop/bakir_becic_23145/bin/Debug/net8.0/ruzzle.deps.json
+/home/bax_03/Desktop/bakir_becic_23145/bin/Debug/net8.0/ruzzle.runtimeconfig.json
+/home/bax_03/Desktop/bakir_becic_23145/obj/Debug/net8.0/ruzzle.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bax_03/Desktop/bakir_becic_23145/obj/Debug/net8.0/ruzzle.fable-temp.AssemblyInfoInputs.cache
+/home/bax_03/Desktop/bakir_becic_23145/obj/Debug/net8.0/ruzzle.fable-temp.AssemblyInfo.cs
+/home/bax_03/Desktop/bakir_becic_23145/obj/Debug/net8.0/ruzzle.f.70E41959.Up2Date
+/home/bax_03/Desktop/bakir_becic_23145/obj/Debug/net8.0/ruzzle.fable-temp.genruntimeconfig.cache
