@@ -1,0 +1,6 @@
+/home/sake/fet/fp25/v8/calc/bin/Release/net8.0/calc.fable-temp.deps.json
+/home/sake/fet/fp25/v8/calc/bin/Release/net8.0/calc.fable-temp.runtimeconfig.json
+/home/sake/fet/fp25/v8/calc/obj/Release/net8.0/calc.fable-temp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sake/fet/fp25/v8/calc/obj/Release/net8.0/calc.fable-temp.AssemblyInfoInputs.cache
+/home/sake/fet/fp25/v8/calc/obj/Release/net8.0/calc.fable-temp.AssemblyInfo.cs
+/home/sake/fet/fp25/v8/calc/obj/Release/net8.0/calc.fable-temp.genruntimeconfig.cache

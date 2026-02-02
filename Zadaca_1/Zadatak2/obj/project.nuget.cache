@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "UFpIqCCZE3M=",
+  "success": true,
+  "projectFilePath": "/home/bax_03/Desktop/bakir_becic_23145/Zadatak2/calc.fsproj",
+  "expectedPackageFiles": [
+    "/home/bax_03/.nuget/packages/fable.ast/4.2.1/fable.ast.4.2.1.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.browser.blob/1.1.4/fable.browser.blob.1.1.4.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.browser.dom/2.4.4/fable.browser.dom.2.4.4.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.browser.event/1.4.4/fable.browser.event.1.4.4.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.browser.gamepad/1.0.3/fable.browser.gamepad.1.0.3.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.browser.webstorage/1.0.4/fable.browser.webstorage.1.0.4.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.core/4.0.0/fable.core.4.0.0.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.elmish/5.0.2/fable.elmish.5.0.2.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.elmish.react/5.0.1/fable.elmish.react.5.0.1.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.react.types/18.3.0/fable.react.types.18.3.0.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fable.reactdom.types/18.2.0/fable.reactdom.types.18.2.0.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/feliz/2.9.0/feliz.2.9.0.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/feliz.compilerplugins/2.2.0/feliz.compilerplugins.2.2.0.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/fsharp.core/9.0.101/fsharp.core.9.0.101.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/microsoft.netcore.app.ref/8.0.12/microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.12/microsoft.aspnetcore.app.ref.8.0.12.nupkg.sha512",
+    "/home/bax_03/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.12/microsoft.netcore.app.host.linux-x64.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
